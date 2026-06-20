@@ -300,6 +300,7 @@ else:
 )
 
             st.write(answer)
+            st.success("Response Generated")
 
                 # =====================================
     # TAB 3 : ASSESSMENT ZONE
